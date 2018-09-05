@@ -1697,6 +1697,10 @@ input, select, textarea {
 		display: inline-block;
 		outline: 0;
 	}
+	
+	.img-responsive {
+		max-width: 100%;
+	}
 
 		.image img {
 			display: block;
