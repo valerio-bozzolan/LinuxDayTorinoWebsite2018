@@ -178,6 +178,10 @@ input, select, textarea {
 	.text-center {
 		text-align: center;
 	}
+	
+	.text-right {
+		text-align: right;
+	}
 
 /* Container */
 
@@ -1829,6 +1833,7 @@ input, select, textarea {
 			position: relative;
 			border-top: solid 1px #ddd;
 			padding: 1.3em 0 1.3em 5.75em;
+			min-height: 150px;
 		}
 
 		ul.dates .date {
