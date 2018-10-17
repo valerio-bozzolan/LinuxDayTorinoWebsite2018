@@ -2279,6 +2279,12 @@ input, select, textarea {
 		padding: 4em 0 4em 0;
 	}
 
+	.white_bg {
+		position: relative;
+		background-color: #FFF;
+		padding: 4em 0 4em 0;
+	}
+
 		.main_bg:before {
 			content: '';
 			position: absolute;
