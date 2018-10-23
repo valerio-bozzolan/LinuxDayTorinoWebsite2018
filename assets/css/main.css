@@ -2920,8 +2920,14 @@ input, select, textarea {
 #ldto-schema h3 {
 	font-size:1.2em;
 }
+.visible-small {
+	display:none;
+}
 @media screen and ( max-width: 736px ) {
 	#ldto-schema-container {
 		overflow-x: auto;
+	}
+	.visible-small {
+		display:block;
 	}
 }
