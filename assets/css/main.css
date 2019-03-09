@@ -2923,7 +2923,7 @@ input, select, textarea {
 .visible-small {
 	display:none;
 }
-@media screen and ( max-width: 736px ) {
+@media screen and ( max-width: 950px ) {
 	#ldto-schema-container {
 		overflow-x: auto;
 	}
